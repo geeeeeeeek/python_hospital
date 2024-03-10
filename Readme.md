@@ -1,4 +1,4 @@
-> 基于python+django+vue.js开发的医院门诊管理系统/医疗管理系统，开发者微信：lengqin1024
+> 基于python+django+vue.js开发的医院门诊管理系统/医疗管理系统，付费咨询微信：lengqin1024
 
 ### 功能介绍
 
